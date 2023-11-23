@@ -1,0 +1,48 @@
+.navbar{
+    justify-content: space-between;
+}
+.navbar ul{
+    display: none;
+}
+.hero-section{
+    flex-wrap: wrap;
+}
+.hero-section img{
+    width: 300px;
+  }
+  .hero-content{
+    width: 80%;
+    font-size: 20px;
+    padding: 30px 10px;
+  }
+.cover{
+    margin-bottom: 80px;
+}
+.powers,.Great-power{
+    flex-wrap: wrap;
+}
+  
+.power{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.Connect{
+flex-wrap: wrap;
+}
+.Connect p{
+    width: 100%;
+    padding: 50px;
+}
+.icon{
+    flex-wrap: wrap;
+   margin: 0 auto;
+   width: 25%;
+}
+.github{
+    padding: 20px;
+}
+.client{
+    grid-template-rows: repeat(3,1fr);
+}
+
+
